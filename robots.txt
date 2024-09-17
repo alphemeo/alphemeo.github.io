@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://alphemeo.github.io/sitemap.html.gz
+Sitemap: https://alphemeo.github.io/app/sitemap.html.gz
+Sitemap: https://alphemeo.github.io/assets/sitemap.html.gz
+Sitemap: https://alphemeo.github.io/css/sitemap.html.gz
+Sitemap: https://alphemeo.github.io/includes/sitemap.html.gz
+Sitemap: https://alphemeo.github.io/item/sitemap.html.gz
+Sitemap: https://alphemeo.github.io/src/sitemap.html.gz
